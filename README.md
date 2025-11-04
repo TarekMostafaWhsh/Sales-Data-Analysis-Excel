@@ -44,11 +44,6 @@ It provides insights into sales performance, customer behavior, product profitab
 
 ---
 
-## 📸 Project Preview
-![Dashboard Preview](Dashboard_Main_View.png)
-
----
-
 ## 🧾 Project Info
 | Field | Detail |
 |-------|---------|
